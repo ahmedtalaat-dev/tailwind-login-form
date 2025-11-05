@@ -24,7 +24,7 @@ A modern and responsive **login & signup UI** built with **Tailwind CSS**, featu
 
 ## 🚀 Live Demo
 
-👉 [View Demo](https://your-demo-link.vercel.app)
+👉 [View Demo](https://glassy-multilang-login.netlify.app/)
 
 ---
 
@@ -38,9 +38,8 @@ A modern and responsive **login & signup UI** built with **Tailwind CSS**, featu
 ---
 
 ## 👨‍💻 Author
-### Ahmed Talaat
-Frontend Developer & UI Enthusiast
 
-🔗 LinkedIn
-💼 Portfolio
+**Ahmed Talaat**  
+Frontend Developer & UI Enthusiast  
 
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmedtalaat-dev)
